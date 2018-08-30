@@ -1,5 +1,7 @@
 # UQFlix
-Like netflix but free; like couchtuner but legal
+Like netflix but free; like couchtuner but legal.
+
+You can try [couchtuner](http://couchtuner.ninja/) or [Autoclicker](http://autoclicker.co/) for sample.
 
 # Installation
 1. Install the latest [dotnet core](https://www.microsoft.com/net/core) binary
